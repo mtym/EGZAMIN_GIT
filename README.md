@@ -1,1 +1,1 @@
-# EGZAMIN_GIT
+First name and last name: Maciej Tym
