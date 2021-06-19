@@ -1,0 +1,1 @@
+# EGZAMIN_GIT
